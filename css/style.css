@@ -500,7 +500,7 @@ img {
 /* Intro styles start*/
 
 .intro {
-	background: url(../img/intro-bg.jpg) no-repeat center;
+	background: url(../img/intro-bg-min.jpg) no-repeat center;
 	background-size: cover;
 	padding-top: 100px;
 	padding-bottom: 656px;
@@ -1381,7 +1381,7 @@ img {
 
 @media screen and (max-width: 405px) {
 	.intro {
-		background: url(../img/intro-sm.jpg) no-repeat center;
+		background: url(../img/intro-sm-min.jpg) no-repeat center;
 		background-size: cover;
 	}
 
